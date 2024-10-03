@@ -1,5 +1,4 @@
-# UTAT-Rocketry-Airframe
-# 6.2 Airframe - ReadMe
+# 6.2 Airframe 
 
 ## 6.2.1 System Overview
 
