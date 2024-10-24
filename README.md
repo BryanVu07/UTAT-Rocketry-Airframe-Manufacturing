@@ -110,4 +110,6 @@ To streamline the manufacturing process for composite components and reduce huma
    ![IMG_9942](https://github.com/user-attachments/assets/2ada303f-2931-4ec4-a1f8-5191ac63d0e5)
 
 
-
+Resource:
+Launch Canada 2024: Final Report
+University of Toronto Aerospace Team Defiance Mk.IV
